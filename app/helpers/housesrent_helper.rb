@@ -1,0 +1,2 @@
+module HousesrentHelper
+end

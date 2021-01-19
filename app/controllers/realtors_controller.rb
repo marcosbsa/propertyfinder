@@ -1,0 +1,5 @@
+class RealtorsController < ApplicationController
+ 
+
+      end
+      
