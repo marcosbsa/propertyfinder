@@ -37,14 +37,14 @@
 
 #home-banner .jumbotron  {
   
-    background-image: url("banner_house.png");
+    background-image: image-url("banner_house.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 
 #blog-banner .jumbotron {
   
-    background-image: url("banner_miami.jpeg");
+    background-image: image-url("banner_miami.jpeg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -61,7 +61,7 @@
 
 #news-banner .jumbotron {
 
-    background-image: url('banner_news.jpg');
+    background-image: image-url('banner_news.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
 
